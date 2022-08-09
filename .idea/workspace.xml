@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core-JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day1/DAY1_DOCUMENT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day1/HelloWorld.java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day2/DAY2_Document.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/Addition_of_same_dataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/DAY3_Document.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/MyFIrstJar.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/TypesOFVariables.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/TypesOFVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/TypesOfOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day3/completeTheCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/CAN_WE_OVERLOAD_STATIC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/Find_The_Error.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/JAVA ASSIGNMENT  DAY 5 (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/Static_uses$Dev_static_class.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/Static_uses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/Will_This_compile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_1/Day4/src/pattern2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/ARRAY_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/DEMO_BASICS_COREJAVA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/Duplicate_elements_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/Encapsulation/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/Encapsulation/Bank_system.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/FindNthElementFromArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day5/JaggedArrayAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day6/TestEmployeeWithScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day7/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day7/Medicine_store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day7/Music.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day7/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day7/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day8/Q1_Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day8/Q2_Overloading_return_change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day8/Q3_Overriding_return_Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day8/Q4_Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_2/Day8/Q5_Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day10/Constructor_demo_classwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day10/Q1_Constructor_chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day10/Q2_All_methods_of_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day10/Q3_Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day10/Q4_access_parameterised.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/AdapterPatternMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/AdapterDesignPattern/VlcPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/Anonymous_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/LocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day11/MemberInnerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q1_ReorderTheString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q2_CountVovalsAndConso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q3_Remove_repeted_from_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q4_leadingAndTreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q5_FiveNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q6_StringIntoArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q7_SeparateTheTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/Assignmets/Q8_ReinitilizeTheValueOfClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/StringBufferDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/StringTokenizer_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day12/String_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_3/Day9/Constructor_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day14_ExceptionHandling/Exceptions/ThowANdThrows.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CXPPr3MvItLacP7yzdJYjMWqcR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/coditas/Documents/Practice&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_3\Day12\Assignmets" />
+      <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_2\Day6\TestEmployee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Week_4.Day15.Q1_Bank_Exception_Handling">
+    <configuration name="ExceptionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4.Day14_ExceptionHandling.Exceptions.ExceptionsDemo" />
+      <module name="Core-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4.Day14_ExceptionHandling.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileNOtFound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4.Day14_ExceptionHandling.Exceptions.FileNOtFound" />
+      <module name="Core-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4.Day14_ExceptionHandling.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1_Bank_Exception_Handling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4.Day14_ExceptionHandling.Day15.Q1_Bank_Exception_Handling" />
+      <module name="Core-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4.Day14_ExceptionHandling.Day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThowANdThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4.Day14_ExceptionHandling.Exceptions.ThowANdThrows" />
+      <module name="Core-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4.Day14_ExceptionHandling.Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Week_4.Day15.Q1_Bank_Exception_Handling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_4.Day15.Q1_Bank_Exception_Handling" />
+      <module name="Core-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_4.Day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Week_4.Day15.Q1_Bank_Exception_Handling" />
+        <item itemvalue="Application.Q1_Bank_Exception_Handling" />
+        <item itemvalue="Application.ThowANdThrows" />
+        <item itemvalue="Application.FileNOtFound" />
+        <item itemvalue="Application.ExceptionsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="" />
+      <created>1658945936428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658945936428</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Week_2/Day8/Q5_Enum.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
