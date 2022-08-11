@@ -12,3 +12,14 @@ public class Console_Input {
 	}
 
 }
+
+/*		OUTPUT
+PS C:\Users\coditas\Desktop\Hello> javac Console_Input.java
+PS C:\Users\coditas\Desktop\Hello> java Console_Input
+Devayush
+170056
+45000
+Name : Devayush
+ID : 170056
+Salary : 45000.0
+*/
