@@ -1,4 +1,5 @@
 package Week_4.Day17.Q2_Employee_Input_All_Ways;
+import Week_4.Day17.Q2_Employee_Input_All_Ways.EmployeeDetails;
 import java.io.Console;
 public class Console_Input {
 	public static void main(String[] args) {
