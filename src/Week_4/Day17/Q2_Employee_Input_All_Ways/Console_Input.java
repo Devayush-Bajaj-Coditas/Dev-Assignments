@@ -1,4 +1,5 @@
 package Week_4.Day17.Q2_Employee_Input_All_Ways;
+import Week_4.Day17.Q2_Employee_Input_All_Ways.EmployeeDetails;
 import java.io.Console;
 import Week_4.Day17.Q2_Employee_Input_All_Ways.EmployeeDetails;
 public class Console_Input {
@@ -13,3 +14,14 @@ public class Console_Input {
 	}
 
 }
+
+/*		OUTPUT
+PS C:\Users\coditas\Desktop\Hello> javac Console_Input.java
+PS C:\Users\coditas\Desktop\Hello> java Console_Input
+Devayush
+170056
+45000
+Name : Devayush
+ID : 170056
+Salary : 45000.0
+*/
