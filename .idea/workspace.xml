@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="&quot;Test&quot;">
-      <change afterPath="$PROJECT_DIR$/EmpSerialNEw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/File1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/BankExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Restaurant_Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Q1_Bank_Exception_Handling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/Q2_Mearge2FileData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/BufferReaderTest_PRACTICE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/CLADemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q1_ScannerInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/BufferReader_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/CommandLineArgument_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/Console_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/EmployeeDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/Scanner_Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q5_ClosingStreams_Importance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q6_ExecuteTheCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/ScannerInputTest_PRACTICE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/employee_SerializationAndDeserialization/DeserializationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/employee_SerializationAndDeserialization/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day17/employee_SerializationAndDeserialization/SerilizationDemo.java" afterDir="false" />
+    <list default="true" id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="Adding file">
+      <change afterPath="$PROJECT_DIR$/Dev.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deva.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevaFileoutputStreme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DevaFileoutputStreme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThrowsPracticeDay14.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devTry15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/devTry15.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day14_ExceptionHandling/Practice/CustomExceptionPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day14_ExceptionHandling/Practice/ThrowsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/EncapsulationPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/InharitancePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/InverseRightTriange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/InvertedPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/FileClassPRACTICE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/IOPractice/Streme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/IOstreme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/Q1_STREAM_CLASSES/Char_Stream_Subclasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/ArrayPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/FileHandlingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/TRy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/inharitance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/Console_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/Console_Input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +57,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/coditas/Documents/Practice",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/coditas/Documents/Test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_3\Day12\Assignmets" />
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_2\Day6\TestEmployee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q6_ExecuteTheCode">
-    <configuration name="Q1_ScannerInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4.Day17.Q1_ScannerInput" />
+  <component name="RunManager" selected="Application.FileHandlingPractice">
+    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.ArrayPractice" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4.Day17.*" />
+          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q5_ClosingStreams_Importance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4.Day17.Q5_ClosingStreams_Importance" />
+    <configuration name="FileHandlingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.FileHandlingPractice" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4.Day17.*" />
+          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mymain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.Mymain" />
+      <module name="Core-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_5.Day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week_4.Day17.Q2_Employee_Input_All_Ways.CommandLineArgument_Input" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4.Day17.Q2_Employee_Input_All_Ways.CommandLineArgument_Input" />
+    <configuration name="TRy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.TRy" />
       <module name="Core-JAVA" />
-      <option name="PROGRAM_PARAMETERS" value="Devayush 11056 450000" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4.Day17.Q2_Employee_Input_All_Ways.*" />
+          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,25 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week_4.Day17.Q2_Employee_Input_All_Ways.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4.Day17.Q2_Employee_Input_All_Ways.Main" />
+    <configuration name="inharitance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.inharitance" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_4.Day17.Q2_Employee_Input_All_Ways.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Week_4.Day17.Q2_Employee_Input_All_Ways.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_4.Day17.Q2_Employee_Input_All_Ways.main" />
-      <module name="Core-JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Week_4.Day17.Q2_Employee_Input_All_Ways.*" />
+          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q5_ClosingStreams_Importance" />
-        <item itemvalue="Application.Week_4.Day17.Q2_Employee_Input_All_Ways.CommandLineArgument_Input" />
-        <item itemvalue="Application.Week_4.Day17.Q1_ScannerInput" />
-        <item itemvalue="Application.Week_4.Day17.Q2_Employee_Input_All_Ways.Main" />
-        <item itemvalue="Application.Week_4.Day17.Q2_Employee_Input_All_Ways.main" />
+        <item itemvalue="Application.FileHandlingPractice" />
+        <item itemvalue="Application.inharitance" />
+        <item itemvalue="Application.TRy" />
+        <item itemvalue="Application.ArrayPractice" />
+        <item itemvalue="Application.Mymain" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660064599722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding file">
+      <created>1660237105566</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660237105566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;Test&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Test&quot;" />
+    <MESSAGE value="Adding file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
