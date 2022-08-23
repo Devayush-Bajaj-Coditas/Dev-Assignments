@@ -100,10 +100,58 @@ public class CompratorDemo {
             }
 
         }
-
-
-
-
-
     }
 }
+
+/*              OUTPUT
+        Press
+        1 to add data
+        2 to display details
+        3 to sort
+        4 to exit
+        1
+        Enter number of employees you want to add:
+        4
+        Enter 1 employee details
+        ID:15
+        Name : Devayush
+        City : Bhopal
+        Enter 2 employee details
+        ID:43432
+        Name : Usman
+        City : Pune
+        Enter 3 employee details
+        ID:543543
+        Name : Anuj
+        City : UK
+        Enter 4 employee details
+        ID:57567678
+        Name : Swraj
+        City : Pune
+        Press
+        1 to add data
+        2 to display details
+        3 to sort
+        4 to exit
+        2
+        Displaying the data:
+        Employees{employeeId=43432, name='Usman', city='Pune'}
+        Employees{employeeId=543543, name='Anuj', city='UK'}
+        Employees{employeeId=57567678, name='Swraj', city='Pune'}
+        Press
+        1 to add data
+        2 to display details
+        3 to sort
+        4 to exit
+        3
+        Sort as per
+        1)Name
+        2)Id
+        1
+        Sorting by names
+        Employees{employeeId=15, name='Devayush', city='Bhopal'}
+        Employees{employeeId=57567678, name='Swraj', city='Pune'}
+        Employees{employeeId=43432, name='Usman', city='Pune'}
+
+        Process finished with exit code 0
+*/
