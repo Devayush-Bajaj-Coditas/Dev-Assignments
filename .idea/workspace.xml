@@ -2,33 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="Adding file">
-      <change afterPath="$PROJECT_DIR$/Dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Deva.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevaFileoutputStreme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevaFileoutputStreme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThrowsPracticeDay14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devTry15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devTry15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day14_ExceptionHandling/Practice/CustomExceptionPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day14_ExceptionHandling/Practice/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/EncapsulationPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/InharitancePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/InverseRightTriange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/InvertedPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/RightTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day15/Practice/Patterns/stairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/FileClassPRACTICE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/IOPractice/Streme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/IOstreme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_4/Day16/Q1_STREAM_CLASSES/Char_Stream_Subclasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/ArrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/FileHandlingPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/TRy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/inharitance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/ThreadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/AbstractTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/AssociationInharitance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/StringlengthReorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/Stringreader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/VovelsFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day18/PRACTICE/sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day19/Q1_CanWeRestartTheThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_5/Day21/CompratorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6/Day20/CheckInMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6/Day20/Day21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6/Day20/MapDemoJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6/Day20/Q1_LinkedListImplementation_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6/Day20/SetDemoPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myData1.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/Console_Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_4/Day17/Q2_Employee_Input_All_Ways/Console_Input.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,17 +58,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src" />
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_3\Day12\Assignmets" />
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_2\Day6\TestEmployee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileHandlingPractice">
-    <configuration name="ArrayPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.ArrayPractice" />
+  <component name="RunManager" selected="Application.CompratorDemo">
+    <configuration name="CompratorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day21.CompratorDemo" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
+          <option name="PATTERN" value="Week_5.Day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileHandlingPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.FileHandlingPractice" />
+    <configuration name="Day21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6.Day20.Day21" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
+          <option name="PATTERN" value="Week_6.Day20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mymain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.Mymain" />
+    <configuration name="Q1_CanWeRestartTheThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day19.Q1_CanWeRestartTheThread" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5.Day18.*" />
+          <option name="PATTERN" value="Week_5.Day19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TRy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.TRy" />
+    <configuration name="SetDemoPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6.Day20.SetDemoPractice" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_5.Day18.PRACTICE.*" />
+          <option name="PATTERN" value="Week_6.Day20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inharitance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.inharitance" />
+    <configuration name="Stringreader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_5.Day18.PRACTICE.Stringreader" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileHandlingPractice" />
-        <item itemvalue="Application.inharitance" />
-        <item itemvalue="Application.TRy" />
-        <item itemvalue="Application.ArrayPractice" />
-        <item itemvalue="Application.Mymain" />
+        <item itemvalue="Application.CompratorDemo" />
+        <item itemvalue="Application.Day21" />
+        <item itemvalue="Application.Week_6.Day20.SetDemoPractice" />
+        <item itemvalue="Application.Week_5.Day19.Q1_CanWeRestartTheThread" />
+        <item itemvalue="Application.Stringreader" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660237105566</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding file">
+      <created>1660763149151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660763149151</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
