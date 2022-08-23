@@ -1,14 +1,11 @@
-package Week_5.Day21;
+package Week_6.Day21;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.Scanner;
 
 class Employees{
     int employeeId;
@@ -42,9 +39,8 @@ class SortById implements Comparator<Employees>{
     }
 }
 
-
-public class CompratorDemo {
-    public static void main(String[] args) throws IOException {
+class EmployeeOperations {
+    public void operations() throws Exception {
         int id,userChoice;
         String name, city;
 
@@ -98,11 +94,16 @@ public class CompratorDemo {
                     condition=false;
                     break;
             }
-
         }
     }
 }
 
+public class CompratorDemo {
+    public static void main(String[] args) throws Exception {
+        EmployeeOperations employeeOperations = new EmployeeOperations();
+        employeeOperations.operations();
+    }
+}
 /*              OUTPUT
         Press
         1 to add data
