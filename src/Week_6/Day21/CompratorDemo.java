@@ -1,14 +1,11 @@
-package Week_5.Day21;
+package Week_6.Day21;
 
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.Scanner;
 
 class Employees{
     int employeeId;
@@ -42,9 +39,8 @@ class SortById implements Comparator<Employees>{
     }
 }
 
-
-public class CompratorDemo {
-    public static void main(String[] args) throws IOException {
+class EmployeeOperations {
+    public void operations() throws Exception {
         int id,userChoice;
         String name, city;
 
@@ -58,7 +54,7 @@ public class CompratorDemo {
                 case 1:
                     System.out.println("Enter number of employees you want to add: ");
                     int totalEmployees = Integer.parseInt(bufferedReader.readLine());
-                    for (int i = 1; i <= totalEmployees; i++) {
+                    for (int i = 0; i <= totalEmployees; i++) {
                         System.out.print("Enter " + i + " employee details \nID:");
                         id = Integer.parseInt(bufferedReader.readLine());
                         System.out.print("Name : ");
@@ -70,7 +66,7 @@ public class CompratorDemo {
                     break;
                 case 2:
                     System.out.println("Displaying the data: ");
-                    for (int i = 1; i < employees.size(); i++) {
+                    for (int i = 0; i < employees.size(); i++) {
                         System.out.println(employees.get(i));
                     }
                     break;
@@ -82,14 +78,14 @@ public class CompratorDemo {
                         case 1:
                             System.out.println("Sorting by names");
                             Collections.sort(employees, new SortByName());
-                            for (int i = 1; i < employees.size(); i++) {
+                            for (int i = 0; i < employees.size(); i++) {
                                 System.out.println(employees.get(i));
                             }
                             break;
                         case 2:
                             System.out.println("Sorting by Id");
                             Collections.sort(employees, new SortById());
-                            for (int i = 1; i < employees.size(); i++) {
+                            for (int i = 0; i < employees.size(); i++) {
                                 System.out.println(employees.get(i));
                             }
                             break;
@@ -98,12 +94,65 @@ public class CompratorDemo {
                     condition=false;
                     break;
             }
-
         }
-
-
-
-
-
     }
 }
+
+public class CompratorDemo {
+    public static void main(String[] args) throws Exception {
+        EmployeeOperations employeeOperations = new EmployeeOperations();
+        employeeOperations.operations();
+    }
+}
+/*              OUTPUT
+        Press
+        1 to add data
+        2 to display details
+        3 to sort
+        4 to exit
+        1
+        Enter number of employees you want to add:
+        4
+        Enter 1 employee details
+        ID:15
+        Name : Devayush
+        City : Bhopal
+        Enter 2 employee details
+        ID:43432
+        Name : Usman
+        City : Pune
+        Enter 3 employee details
+        ID:543543
+        Name : Anuj
+        City : UK
+        Enter 4 employee details
+        ID:57567678
+        Name : Swraj
+        City : Pune
+        Press
+        1 to add data
+        2 to display details
+        3 to sort
+        4 to exit
+        2
+        Displaying the data:
+        Employees{employeeId=43432, name='Usman', city='Pune'}
+        Employees{employeeId=543543, name='Anuj', city='UK'}
+        Employees{employeeId=57567678, name='Swraj', city='Pune'}
+        Press
+        1 to add data
+        2 to display details
+        3 to sort
+        4 to exit
+        3
+        Sort as per
+        1)Name
+        2)Id
+        1
+        Sorting by names
+        Employees{employeeId=15, name='Devayush', city='Bhopal'}
+        Employees{employeeId=57567678, name='Swraj', city='Pune'}
+        Employees{employeeId=43432, name='Usman', city='Pune'}
+
+        Process finished with exit code 0
+*/
