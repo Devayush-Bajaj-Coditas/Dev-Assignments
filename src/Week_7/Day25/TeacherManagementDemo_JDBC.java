@@ -52,7 +52,7 @@ class TeacherManagenmentSystem {
         ResultSet resultSet = statement.executeQuery("Select * from TeacherPersonalDetails");
 
         while (resultSet.next()) {
-            System.out.println(resultSet.getInt(1) + " " + resultSet.getString(2) + " " + resultSet.getString(3));
+            System.out.println(resultSet.getInt(1) + " " + resultSet.getString(2) + " " + resultSet.getString(3)+ ""+ resultSet.getFloat(4));
         }
     }
 

@@ -2,30 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="Adding file">
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day20/CollectionFrameworkPractice/List_ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/AddAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/BankOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/CurrentAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/Exceptions/InsufficientBalanceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/Exceptions/UserNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/BankAppUsingArrayList/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/HashSetPracticwe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/IteratorTry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day22/Practice/VectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day23/JDBCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day25/Q11_savePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day25/Q1_ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day25/Q2_RollBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day25/TeacherManagementDemo_JDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_6/Day23/StreamAPI/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day24/JDBCDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/CRUD_Implementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/CRUD_Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/DBMSConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/Dao/ConnectionRequirements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/RecordManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/DataAccessObjectPattern_DAO/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/DataAccessObjectPattern_DAO/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/ProductCompany.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/BookManagementMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/BookMangenemntImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/DAO/BookManagnenmentConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/DAO/SqlConnectivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/LaunchBookManagenmentSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Core-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Core-JAVA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_5/Day21/CompratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_6/Day21/CompratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_6/Day20/Day21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myData.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myData1.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week_7/Day25/TeacherManagementDemo_JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_7/Day25/TeacherManagementDemo_JDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,14 +65,17 @@
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_3\Day12\Assignmets" />
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src\Week_2\Day6\TestEmployee" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Week_7.WeeklyTest.BookMAnagenment.DAO" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Q11_savePoint">
-    <configuration name="JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_6.Day23.JDBCDemo" />
+  <component name="RunManager" selected="Application.Week_7.WeeklyTest.BookMAnagenment.src.LaunchBookManagenmentSystem">
+    <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_6.Day23.StreamAPI.Basics" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_6.Day23.*" />
+          <option name="PATTERN" value="Week_6.Day23.StreamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11_savePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7.Day25.Q11_savePoint" />
+    <configuration name="LaunchBookManagenmentSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_7.WeeklyTest.BookMAnagenment.src.LaunchBookManagenmentSystem" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_7.Day25.*" />
+          <option name="PATTERN" value="Week_7.WeeklyTest.BookMAnagenment.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_ResultSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7.Day25.Q1_ResultSet" />
+    <configuration name="ProductCompany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_7.Day26.Practice.ProductCompany" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_7.Day25.*" />
+          <option name="PATTERN" value="Week_7.Day26.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeacherManagementDemo_JDBC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7.Day25.TeacherManagementDemo_JDBC" />
+    <configuration name="Week_7.Day24.JDBCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_7.Day24.JDBCDemo" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_7.Day25.*" />
+          <option name="PATTERN" value="Week_7.Day24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Week_7.Day25.Q2_RollBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Week_7.Day25.Q2_RollBack" />
+    <configuration name="Week_7.Day26.Practice.CRUD_Practice_Jdbc.RecordManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_7.Day26.Practice.CRUD_Practice_Jdbc.RecordManagementSystem" />
       <module name="Core-JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Week_7.Day25.*" />
+          <option name="PATTERN" value="Week_7.Day26.Practice.CRUD_Practice_Jdbc.Dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q11_savePoint" />
-        <item itemvalue="Application.TeacherManagementDemo_JDBC" />
-        <item itemvalue="Application.Q1_ResultSet" />
-        <item itemvalue="Application.Week_7.Day25.Q2_RollBack" />
-        <item itemvalue="Application.JDBCDemo" />
+        <item itemvalue="Application.Week_7.WeeklyTest.BookMAnagenment.src.LaunchBookManagenmentSystem" />
+        <item itemvalue="Application.Week_7.Day26.Practice.CRUD_Practice_Jdbc.RecordManagementSystem" />
+        <item itemvalue="Application.ProductCompany" />
+        <item itemvalue="Application.Basics" />
+        <item itemvalue="Application.Week_7.Day24.JDBCDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661258398537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding file">
+      <created>1661980383409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661980383409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
