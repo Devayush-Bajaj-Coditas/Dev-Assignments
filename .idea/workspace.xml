@@ -2,23 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c782037f-bc9b-475a-89d4-9b5951ced9b0" name="Changes" comment="Adding file">
-      <change afterPath="$PROJECT_DIR$/src/Week_6/Day23/StreamAPI/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day24/JDBCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/CRUD_Implementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/CRUD_Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/DBMSConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/Dao/ConnectionRequirements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/CRUD_Practice_Jdbc/RecordManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/DataAccessObjectPattern_DAO/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/DataAccessObjectPattern_DAO/StudentDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Week_7/Day26/Practice/ProductCompany.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/BookManagementMethods.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/BookMangenemntImplementation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/DAO/BookManagnenmentConnection.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/DAO/SqlConnectivity.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Week_7/WeeklyTest/BookMAnagenment/src/LaunchBookManagenmentSystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week_7/Day25/TeacherManagementDemo_JDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week_7/Day25/TeacherManagementDemo_JDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/coditas/Utils/mysql-connector-java-8.0.28.jar",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/coditas/Utils/mysql-connector-java-8.0.28.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\coditas\Desktop\Dev-Assignments\JAVA\Core-JAVA\src" />
@@ -69,7 +58,7 @@
       <recent name="Week_7.WeeklyTest.BookMAnagenment.DAO" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Week_7.WeeklyTest.BookMAnagenment.src.LaunchBookManagenmentSystem">
+  <component name="RunManager" selected="Application.LaunchBookManagenmentSystem">
     <configuration name="Basics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week_6.Day23.StreamAPI.Basics" />
       <module name="Core-JAVA" />
@@ -151,7 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Week_7.WeeklyTest.BookMAnagenment.src.LaunchBookManagenmentSystem" />
+        <item itemvalue="Application.LaunchBookManagenmentSystem" />
         <item itemvalue="Application.Week_7.Day26.Practice.CRUD_Practice_Jdbc.RecordManagementSystem" />
         <item itemvalue="Application.ProductCompany" />
         <item itemvalue="Application.Basics" />
@@ -203,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661980383409</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding file">
+      <created>1662117242900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662117242900</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
